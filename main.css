@@ -1,8 +1,3 @@
-.codeclaudia{
-    background-color: #dbdbdb;
-    color: rgb(32, 112, 187);
-    font-size: 90%;
-}
 
 .bgimage{
     background-image: url(images/hello-i-m-nik-l4ADb9OVqTY-unsplash.jpg);
@@ -13,31 +8,22 @@
     background-color: #f4f4f4;
     }
 
-.bgimagehtml{
-    background-image: url(images/pexels-francesco-ungaro-1670977.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #f4f4f4;
-    }
-
-
-    .bgimagecss{
-        background-image: url(images/kelli-tungay-2LJ4rqK2qfU-unsplash.jpg);
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-        background-color: #f4f4f4;
-        }
-
 .myvideo{
     position:fixed;
     right: 0;
     bottom: 0;
     min-width: 100%;
     min-height: 100%;
+}
+
+
+.content {
+position: fixed;
+margin: auto;
+background: rgba(0, 0, 0, 0.5);
+color: #ffffff;
+width: 100%;
+padding: 20px;
 }
 
 
