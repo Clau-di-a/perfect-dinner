@@ -1,4 +1,3 @@
-# Claudia's Udemy Course Summary
+# The Perfect Dinner
 
-HTML 5, CSS3, Bootstrap
-test
+With Andy and a great topic =)
