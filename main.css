@@ -1,0 +1,143 @@
+.codeclaudia{
+    background-color: #dbdbdb;
+    color: rgb(32, 112, 187);
+    font-size: 90%;
+}
+
+.bgimage{
+    background-image: url(images/hello-i-m-nik-l4ADb9OVqTY-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f4f4f4;
+    }
+
+.bgimagehtml{
+    background-image: url(images/pexels-francesco-ungaro-1670977.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f4f4f4;
+    }
+
+
+    .bgimagecss{
+        background-image: url(images/kelli-tungay-2LJ4rqK2qfU-unsplash.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #f4f4f4;
+        }
+
+.myvideo{
+    position:fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+body{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+    color: rgb(20, 20, 20);
+}
+
+h1{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: rgb(35, 132, 243);
+    line-height: 110%;
+    margin-left: 40px;
+    margin-bottom: 1px;
+}
+
+h2{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 800;
+    font-size: 38px;
+    color: rgb(35, 132, 243);
+    line-height: 110%;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+    font-size: 29px;
+    color:rgb(35, 132, 243);
+    line-height: 110%;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-family: 'Cairo', sans-serif;
+    font-weight: 600;
+    color: rgb(20, 20, 20);
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+ol{
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+ul{
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+
+#footer{
+    position: relative;
+    bottom: 10px;
+    text-align: right;
+    margin-right: 10px;
+    color: rgb(35, 132, 243);
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:link {
+    color:hotpink;
+
+}
+
+a:visited {
+    color:hotpink;
+
+}
+
+a:focus {
+
+}
+
+a:hover {color:rgb(247, 26, 136);
+
+}
+
+a:active {
+
+}
+
+
+table, th, td {
+    border: 1px solid black
+
+}
