@@ -11,7 +11,7 @@
     transform: translate(-50%, -50%);
 }
 
-.content {
+.button {
     position: absolute;
     top: 70%;
     left: 50%;
@@ -21,6 +21,14 @@
     transform: translate(-50%);
     font-size: 1.5em;
     font-family: 'Antonio', sans-serif; font-weight: 300;
+}
+
+
+.content{
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 
@@ -50,36 +58,58 @@ h2{
 }
 
 
-a {
+a.buttonlink {
     text-decoration: none;
 }
 
-a:link {
+a.buttonlink:link {
     color:rgb(255, 255, 255);
 
 }
 
-a:visited {
+a.buttonlink:visited {
     color:rgb(255, 255, 255);
 
 }
 
-a:focus {
+a.buttonlink:focus {
 
 }
 
-a:hover {
+a.buttonlink:hover {
     background-color: rgb(255, 255, 255, 0.8);
     color: black;
 
 }
 
-a:active {background-color: rgb(139, 139, 139);
+a.buttonlink:active {background-color: rgb(139, 139, 139);
 
 }
 
 
-table, th, td {
-    border: 1px solid black
+
+a.anders {
+    text-decoration: none;
+}
+
+a.anders:link {
+    color:rgb(255, 255, 255);
+
+}
+
+a.anders:visited {
+    color:rgb(255, 255, 255);
+
+}
+
+a.anders:focus {
+
+}
+
+a.anders:hover {
+
+}
+
+a.anders:active {
 
 }
