@@ -51,7 +51,7 @@ p {
     top: 70%;
     left: 50%;
     transform: translate(-50%);
-    margin-top: 50%;
+    margin-top: 100%;
 }
 
 .contenttwo{
@@ -59,7 +59,7 @@ p {
     top: 70%;
     left: 50%;
     transform: translate(-50%);
-    margin-top: 90%;
+    margin-top: 200%;
 }
 
 body{
